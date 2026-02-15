@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2077a46f-7f01-463e-9ed4-927d8456cba3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab1/data_gen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +124,7 @@
       <updated>1771063906871</updated>
       <workItem from="1771063907978" duration="527000" />
       <workItem from="1771092231241" duration="109000" />
-      <workItem from="1771141556887" duration="2237000" />
+      <workItem from="1771141556887" duration="2554000" />
     </task>
     <servers />
   </component>
@@ -143,6 +143,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/numerical_methods_2026$main.coverage" NAME="main Coverage Results" MODIFIED="1771092306193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/numerical_methods_2026$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1771143811212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/numerical_methods_2026$main.coverage" NAME="main Coverage Results" MODIFIED="1771143842377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
   </component>
 </project>
